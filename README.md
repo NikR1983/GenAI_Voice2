@@ -1,5 +1,16 @@
-## Prepare Development Environment
 
+## Motivation
+In the fast-paced world of customer interactions, particularly in call centers, there is a need for an automated system that can efficiently handle real-time conversations, extract insights, and provide accurate responses. This project aims to implement a voice-based chatbot that leverages advanced AI models like OpenAI's GPT and Whisper for natural language processing and generation. 
+The goal is to build a conversational bot that accepts audio inputs, processes them, and returns audio responses in real time, thereby improving the call center experience and enhancing customer satisfaction.
+
+
+## Objective
+Voice-activated Bot: Create a chatbot that can handle natural language conversations through audio inputs and outputs, providing a seamless user experience.
+Automated Insights: Use advanced speech processing techniques to extract insights from conversations, add history and generate context-aware responses using Whisper and OpenAI models.
+Real-time Processing: Implement a pipeline that processes audio inputs, generates responses using the LLM (Large Language Model), and outputs the response in audio format.
+
+
+## Prepare Development Environment
 We will be using `Poetry`, a versatile tool for Python projects that simplifying dependency management and packaging. It automates the process of declaring, installing, and updating the libraries your project relies on. By using a lockfile, `Poetry` guarantees consistent and reproducible builds, ensuring that your project's dependencies are always installed in the specified versions. Additionally, `Poetry` provides convenient features for building your project into distributable formats, making it easier to share and deploy your work.
 
 1. Install [Python](https://www.python.org/downloads/) (both 3.10.12 and 3.12.6 were used in testing to offer a wide range of diversity.) 
