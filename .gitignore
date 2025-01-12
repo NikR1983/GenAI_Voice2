@@ -11,6 +11,6 @@ env/
 playground/
 
 #ignore jupyter notebook checkpoints
-app/.ipynb_checkpoints/chatbot_gradio_runner-checkpoint.ipynb
-app/chatbot_gradio_runner.ipynb
+#app/.ipynb_checkpoints/chatbot_gradio_runner-checkpoint.ipynb
+#app/chatbot_gradio_runner.ipynb
 
