@@ -1,0 +1,16 @@
+#ignore virtual env
+.venv/
+
+#ignore env variable
+.env/
+env/
+.env
+
+
+#ignore playground
+playground/
+
+#ignore jupyter notebook checkpoints
+app/.ipynb_checkpoints/chatbot_gradio_runner-checkpoint.ipynb
+app/chatbot_gradio_runner.ipynb
+
