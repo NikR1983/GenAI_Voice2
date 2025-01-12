@@ -163,8 +163,3 @@ The project is structured in a modularized manner, focusing on building and runn
     ```
 
 
-## Troubleshooting
-1. Try and use a headset microphone
-2. Record in a quiet room 
-3. Make sure that you have granted microphone permissions
-4. Ensure the required audio libraries are installed
